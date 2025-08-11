@@ -1,0 +1,14 @@
+{ 
+  "yellowcore.configuration.title": "YellowCore Configs",
+  "yellowcore.configuration.section.yellowcore.common.toml": "YellowCore Configs",
+  "yellowcore.configuration.section.yellowcore.common.toml.title": "YellowCore Configs",
+  "yellowcore.configuration.items": "Item List",
+  "yellowcore.configuration.magicNumberIntroduction": "Magic Number Text",
+  "yellowcore.configuration.magicNumber": "Magic Number",
+
+  "item.yellowcore.growth_salve": "Growth Salve",
+  "tooltip.yellowcore.growth_salve": "Causes a pokemon to grow a little",
+
+  "item.yellowcore.shrink_salve": "Shrink Salve",
+  "tooltip.yellowcore.shrink_salve": "Causes a pokemon to shrink a little"
+}
