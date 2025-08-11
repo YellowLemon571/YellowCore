@@ -126,6 +126,38 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
     ordering="AFTER"
     side="BOTH"
 
+# Cobblemon dependency
+[[dependencies.yellowcore]]
+    modId="cobblemon"
+    type="required"
+    versionRange="[1.6.1+1.21.1,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Cobblemon Utility+ dependency
+[[dependencies.yellowcore]]
+    modId="cobblemon_utility"
+    type="required"
+    versionRange="[1.6,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Cobblemon Mega Showdown dependency
+[[dependencies.yellowcore]]
+    modId="mega_showdown"
+    type="required"
+    versionRange="[10.0.6-release-neoforge,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Allthemodium dependency
+[[dependencies.yellowcore]]
+    modId="allthemodium"
+    type="required"
+    versionRange="[2.9.3,)"
+    ordering="AFTER"
+    side="BOTH"
+
 # Features are specific properties of the game environment, that you may want to declare you require. This example declares
 # that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
 # stop your mod loading on the server for example.
