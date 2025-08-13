@@ -7,8 +7,8 @@
 
 <details>
   <summary>Images</summary>
-  ![growth-salve](https://github.com/user-attachments/assets/3b06771c-1dc0-4ffa-9025-91947673a8c6)
-  ![shrink-salve](https://github.com/user-attachments/assets/f23ac533-b347-4393-a7dd-3f1e093e62d9)
+  <img src="https://github.com/user-attachments/assets/3b06771c-1dc0-4ffa-9025-91947673a8c6" alt="growth-salve" />
+  <img src="https://github.com/user-attachments/assets/f23ac533-b347-4393-a7dd-3f1e093e62d9" alt="shrink-salve" />
 </details>
 
 Easily increase or decrease the size of your pokemon!
