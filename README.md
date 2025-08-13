@@ -1,5 +1,6 @@
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto" tabindex="-1">YellowCore</h1><h3 class="heading-element" dir="auto" tabindex="-1">Customized NeoForge mod for use in ModifiedMC's modpacks</h3><p>Made by Yellow571</p><br/></div>
-
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto" tabindex="-1">YellowCore</h1><h3 class="heading-element" dir="auto" tabindex="-1">Customized NeoForge mod for use in ModifiedMC's modpacks</h3><p>Made by Yellow571</p></div>
+Dev builds are available in <a href="https://github.com/YellowLemon571/YellowCore/actions">GitHub Actions</a>.
+<br/><br/>
 
 ## Items
 
