@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "modified:coinpile_pokedollar" }
+    ],
+    "result": { "id": "modified:pokedollar", "count": 9 }
+}

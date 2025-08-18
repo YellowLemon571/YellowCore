@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "modified:coinpile_mtoken" }
+    ],
+    "result": { "id": "modified:mtoken", "count": 9 }
+}

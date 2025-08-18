@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" },
+        { "item": "modified:pokedollar" }
+    ],
+    "result": { "id": "modified:coinpile_pokedollar", "count": 1 }
+}

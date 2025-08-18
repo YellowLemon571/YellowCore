@@ -24,7 +24,7 @@ license="All Rights Reserved"
 modId="yellowcore" #mandatory
 
 # The version number of the mod
-version="1.0.0" #mandatory
+version="1.0.1" #mandatory
 
 # A display name for the mod
 displayName="YellowCore" #mandatory
@@ -89,7 +89,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Powah dependency
 [[dependencies.yellowcore]]
     modId="powah"
-    type="required"
+    type="optional"
     versionRange="[6.2.6,)"
     ordering="AFTER"
     side="BOTH"
@@ -97,7 +97,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Create dependency
 [[dependencies.yellowcore]]
     modId="create"
-    type="required"
+    type="optional"
     versionRange="[6.0.6,)"
     ordering="AFTER"
     side="BOTH"
@@ -105,7 +105,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Ars Nouveau dependency
 [[dependencies.yellowcore]]
     modId="ars_nouveau"
-    type="required"
+    type="optional"
     versionRange="[5.10.3,)"
     ordering="AFTER"
     side="BOTH"
@@ -113,7 +113,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Immersive Engineering dependency
 [[dependencies.yellowcore]]
     modId="immersiveengineering"
-    type="required"
+    type="optional"
     versionRange="[12.4.2-194,)"
     ordering="AFTER"
     side="BOTH"
@@ -121,7 +121,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Tomtaru's Cobblemon Immersive Engineering Tweaks dependency
 [[dependencies.yellowcore]]
     modId="tmtceic"
-    type="required"
+    type="optional"
     versionRange="[2.2.0,)"
     ordering="AFTER"
     side="BOTH"
@@ -137,7 +137,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Cobblemon Utility+ dependency
 [[dependencies.yellowcore]]
     modId="cobblemon_utility"
-    type="required"
+    type="optional"
     versionRange="[1.6,)"
     ordering="AFTER"
     side="BOTH"
@@ -145,7 +145,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Cobblemon Mega Showdown dependency
 [[dependencies.yellowcore]]
     modId="mega_showdown"
-    type="required"
+    type="optional"
     versionRange="[10.0.6-release-neoforge,)"
     ordering="AFTER"
     side="BOTH"
@@ -153,7 +153,7 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
 # Allthemodium dependency
 [[dependencies.yellowcore]]
     modId="allthemodium"
-    type="required"
+    type="optional"
     versionRange="[2.9.3,)"
     ordering="AFTER"
     side="BOTH"

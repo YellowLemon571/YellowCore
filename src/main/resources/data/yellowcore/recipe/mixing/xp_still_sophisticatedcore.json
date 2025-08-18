@@ -1,0 +1,9 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        { "type": "fluid_tag", "fluid_tag": "c:experience", "amount": 250 }
+    ],
+    "results": [
+        { "id": "sophisticatedcore:xp_still", "amount": 250 }
+    ]
+}
