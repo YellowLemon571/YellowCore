@@ -158,6 +158,46 @@ description='''Custom mod for ModifiedMC\'s Cobblemon packs to add some custom r
     ordering="AFTER"
     side="BOTH"
 
+# Create Enchantment Industry dependency
+[[dependencies.yellowcore]]
+    modId="create_enchantment_industry"
+    type="optional"
+    versionRange="[2.1.7,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# EnderIO dependency
+[[dependencies.yellowcore]]
+    modId="enderio"
+    type="optional"
+    versionRange="[7.1.8-alpha,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Just Dire Things dependency
+[[dependencies.yellowcore]]
+    modId="justdirethings"
+    type="optional"
+    versionRange="[1.5.5,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Reliquary dependency
+[[dependencies.yellowcore]]
+    modId="reliquary"
+    type="optional"
+    versionRange="[2.0.56,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Sophisticated Core dependency
+[[dependencies.yellowcore]]
+    modId="sophisticatedcore"
+    type="optional"
+    versionRange="[1.3.62,)"
+    ordering="AFTER"
+    side="BOTH"
+
 # Features are specific properties of the game environment, that you may want to declare you require. This example declares
 # that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
 # stop your mod loading on the server for example.
